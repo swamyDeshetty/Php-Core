@@ -77,7 +77,7 @@ $arrlen=count($x);
 for($i=0;$i<$arrlen;$i++)
 {
     echo $x[$i]."<br>";
-    echo "git hub and git";
+    
 }
 
 ?>
