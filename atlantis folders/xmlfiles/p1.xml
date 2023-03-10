@@ -1,0 +1,13 @@
+<!DOCTYPE office[
+<!ELEMENT office (employee,employee1,hr,manager)>
+<!ELEMENT employee (#PDDATA) >
+<!ELEMENT employee1 (#PDDATA) >
+<!ELEMENT hr (#PDDATA)>
+<!ELEMENT manager (#PDDATA)>
+]>
+<office>
+    <employee>swamy</employee>
+    <employee1>manu</employee1>
+    <hr>manisha</hr>
+    <manager>Rajesh</manager>
+    </office>
