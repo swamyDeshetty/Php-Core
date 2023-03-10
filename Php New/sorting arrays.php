@@ -68,7 +68,7 @@ foreach($cars as $x => $x_val )
 }
 
 
-$x=array(1,2,3,4,5);
+$x=array(1,2,3,4,5,6,7);
 echo var_dump($x)."<br>"; //var dump is used to find the datatype of the variable..
 sort($x);
 
@@ -77,6 +77,7 @@ $arrlen=count($x);
 for($i=0;$i<$arrlen;$i++)
 {
     echo $x[$i]."<br>";
+    echo "git hub and git";
 }
 
 ?>
