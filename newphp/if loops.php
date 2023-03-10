@@ -8,7 +8,7 @@ if ($x==10)
 }
 elseif($x==20)
 {
-    echo "manusha <br>";
+    echo "manuu <br>";
 }
 else{
     echo "patel";
