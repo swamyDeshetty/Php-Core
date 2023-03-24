@@ -64,7 +64,7 @@
         }
         ?>
         <table class="table table-hover text-center">
-  <thead class="table-success">
+  <thead class="table-primary">
     <tr>
       <th scope="col">ID</th>
       <th scope="col">First Name</th>
